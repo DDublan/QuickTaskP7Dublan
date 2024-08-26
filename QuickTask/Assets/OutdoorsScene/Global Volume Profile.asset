@@ -74,7 +74,7 @@ MonoBehaviour:
     m_Value: 0
   sampleCount:
     m_OverrideState: 1
-    m_Value: 12
+    m_Value: 8
   bounceCount:
     m_OverrideState: 1
     m_Value: 8
@@ -82,7 +82,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   m_HalfResolutionDenoiser:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
   m_DenoiserRadius:
     m_OverrideState: 0
